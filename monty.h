@@ -1,5 +1,5 @@
 #ifndef "MONT"
-#define "MONTY"
+#define "MONT"
 
 /**
  * struct stack_s - doubly linked list representation of a stack (or queue)
